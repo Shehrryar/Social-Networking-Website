@@ -1,0 +1,47 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+#head h1{
+	position: relative;
+	text-align: center;
+	color: chocolate;
+	top: 20px;
+}
+#head{
+	height: 100px;
+	background-color: aqua;
+	border-bottom: solid 5px;
+	border-bottom-color: crimson;
+}
+#sidebar h2{
+	position: relative;
+	left: 30px;
+	top: 25px;
+}
+	
+#sidebar{
+	background-color: antiquewhite;
+	width: 20%;
+	float: left;
+	position: relative;
+}
+#sidebar ul li{
+	margin: 50px
+}
+#sidebar ul li a:hover{
+	background-color: brown;
+	color: azure;
+	font-size: 25px;
+}
+#content{
+	width: 80%;
+	float: left;
+}
+content h2{
+	text-align: center;
+}
+footer{
+	
+}
+

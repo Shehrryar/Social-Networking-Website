@@ -1,0 +1,22 @@
+#table1{
+	height: 400px;
+	position: relative;
+	left: 100px;
+}
+#table1 tr:hover{
+	background-color: blanchedalmond;
+	color: indigo;
+}
+#table1 tr{
+	text-align: center;
+	color: brown;
+	font-size: 20px;
+}
+#table1 tr td input{
+	height: 20px;
+	font-size: 15px;
+}
+#table1 tr td input:hover{
+	background-color: chocolate;
+	color: azure;
+}

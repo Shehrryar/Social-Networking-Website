@@ -1,0 +1,36 @@
+
+
+#f input{
+	padding: 7px;
+	border: 1px solid black;
+	border-radius: 5px;
+	font-weight: bolder;
+}
+#f textarea{
+	padding: 8px;
+	border: 1px solid black;
+	border-radius: 5px;
+	font-weight: bolder;
+}
+#f select{
+	padding: 8px;
+	border: 1px solid black;
+	border-radius: 5px;
+	font-weight: bolder;
+}
+#f input:hover{
+	background: #fff8dc;
+}
+#f select:hover{
+	background: #fff8dc;
+}
+#f textarea:hover{
+	background: #fff8dc;
+}
+#f h2{
+	color:gray;
+	font-family: sensational;
+}
+
+
+
